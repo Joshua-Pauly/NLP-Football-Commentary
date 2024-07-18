@@ -1,6 +1,8 @@
 # NLP-Football-Commentary
 
-In this project me and my teammate Josue Perez Gomez created a chatbot finetunned on NCAA and NFL commentary.
+This research project, the Falcon 7b large language model is being fine-tuned specifically for football commentary. This effort involves training Falcon 7b on vast datasets derived from professional sports commentary transcripts, aiming to capture the unique jargon, tempo, and emotional peaks characteristic of live football broadcasts. By utilizing fine-tuning capabilities of Falcon 7b, the project seeks to equip the chatbot with the ability to converse with users as if it were a commentator. This project explores the use cases for specialized chatbots.
+
+The user experience offered by this specialized football commentary chatbot represents a significant enhancement over generic interaction models. A tailored experience deepens user engagement, as the chatbot can converse as if it were a sports commentator.
 
 To learn more of our project watch our video presentation: [Link](https://psu.mediaspace.kaltura.com/media/Josue+Perez+Gomez's+Personal+Meeting+Room/1_gs2abgro)
 
